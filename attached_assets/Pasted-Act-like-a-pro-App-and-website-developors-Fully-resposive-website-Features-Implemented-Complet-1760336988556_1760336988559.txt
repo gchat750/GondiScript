@@ -1,0 +1,479 @@
+Act like a pro App and website developors Fully resposive website & Features Implemented:
+✅ Complete Conversion to Vanilla JavaScript
+requirement code React, TypeScript, or build tools required
+Pure HTML, CSS, and JavaScript
+Works directly in any modern browser
+✅ Authentic Masaram Gondi Script
+100+ words and phrases & 50+ Sentences using real Masaram Gondi Unicode characters (𑴀-𑴿)
+Organized into categories: greetings, family, objects, numbers, actions, nature, colors, body parts & Some sentences in all type of categories with examples. If you want to add new word according to the category, then mark its place.
+6 comprehensive lessons with culturally relevant content
+✅ Fully Responsive Design
+Mobile-first approach
+Adapts to all screen sizes (phones, tablets, desktops)
+Touch-friendly interactions Dark Mode  &Hindi, english language Translate support with icon head tab
+✅ User Profile System Login, singup, google authority Or email & facebook, Phone no.
+Customizable display name
+Avatar with initials
+Level progression (Beginner → Intermediate → Advanced → Expert)
+Detailed statistics tracking
+✅ Progress Tracking
+Daily streak with requirement free Storage persistence
+Weekly and monthly progress charts (Chart.js)
+Vocabulary mastery percentage
+Study time tracking
+Quiz accuracy calculation
+✅ Learning History
+Timeline of all learning activities
+Filterable by type (lessons, flashcards, achievements)
+Timestamps for each activity
+Last 100 activities saved
+✅ Achievement System
+8 unlockable achievements
+Visual badges
+Progress-based unlocking
+Achievement notifications in history
+✅ Enhanced Features
+5-tab responsive horizontal navigation (Dashboard, Lessons, G Grammers, Profile, G Dictionary, Help)
+Interactive quizzes with instant feedback.
+Noto Sans Masaram Gondi Script Grammer  fully hindi .                                                                  Gondi dictionary Gondi, Hindi, English Words Search Bar And  gondi word and gondi pronunciates in all three words  and one exam in Hindi word.                                                                                                 Help inside the tab suggestion, feedback, Add Any Q&A.
+Data persistence with Choose free Storage
+Clear data option
+Beautiful gradient UI with smooth animations
+Installation:
+Create a new folder for the project
+Save the three files ( your requirement code and index.html, styles.css, script.js) in the folder
+Open any code and  index.html in any modern web browser
+Start learning Masaram Gondi! 🎉
+The app now includes authentic Masaram Gondi script, comprehensive tracking, user profiles, and a complete learning history system—all working Act Like a Pro app and website developer - Creat a professional learning website Name  Gondi Gotul Guru Logo 3G, by Saiyyam Ji
+Add page
+Features Implemented
+✅ Complete Conversion to Vanilla JavaScript
+
+required React, TypeScript, or build tools
+
+Pure HTML, CSS, and JavaScript
+
+Works directly in any modern browser
+
+✅ Authentic Noto Sans masaram Gondi Script Language
+
+50+ words and phrases using real Masaram Gondi Unicode characters (𑴀-𑴿)
+
+Organized into categories: greetings, family, objects, numbers, actions, nature, colors, body parts, Daily uses sentence
+
+6 comprehensive lessons with culturally relevant content
+
+✅ Fully Responsive Design
+
+Mobile-first approach
+
+Adapts to all screen sizes (phones, tablets, desktops)
+
+Touch-friendly interactions
+
+Dark Mode & language toggle support
+
+✅ User Profile System
+
+Login/signup modal with Google and email options
+
+Customizable display name
+
+Avatar with initials
+
+Level progression (Beginner → Intermediate → Advanced → Expert)
+
+Detailed statistics tracking
+
+✅ Progress Tracking
+
+Daily streak with requirement free Storage persistence
+
+Weekly and monthly progress charts (Chart.js)
+
+Vocabulary mastery percentage
+
+Study time tracking
+
+Quiz accuracy calculation
+
+✅ Learning History
+
+Timeline of all learning activities
+
+Filterable by type (lessons, flashcards, achievements)
+
+Timestamps for each activity
+
+Last 50 activities saved
+
+✅ Achievement System
+
+8 unlockable achievements
+
+Visual badges
+
+Progress-based unlocking
+
+Achievement notifications in history
+
+✅ Enhanced Features
+
+6-tab responsive horizontal navigation
+
+Interactive quizzes with instant feedback
+
+Fully responsive flashcard system
+
+Gondi dictionary with search in all three languages
+
+Help section with suggestions, feedback, and Q&A
+
+Data persistence withrequirement free Storage
+
+How to Use
+Save the code as an HTML file (e.g., index.html)
+
+Open it directly in any modern web browser
+
+Start learning Masaram Gondi!
+
+The app includes a complete learning system with user profiles, progress tracking, and authentic Gondi language content - all working without any external dependencies.
+add now this page
+Features of the Greetings & Basics Lesson
+✅ Interactive Learning Interface
+
+Clean, focused lesson layout with progress tracking
+
+Visual vocabulary cards with Gondi script, pronunciation, and translations
+
+Audio playback simulation for pronunciation practice
+
+✅ Comprehensive Vocabulary
+
+30 essential greetings and basic phrases in authentic Masara Gondi script
+
+Each word includes:
+
+Gondi script (𑴌𑴳𑵃𑴱𑵄𑴲)
+
+Pronunciation guide (Namaskar)
+
+English translation (Hello / Greetings)
+
+Example sentence with translation
+
+✅ Interactive Quiz
+
+5 multiple-choice questions to test understanding
+
+Immediate feedback with visual indicators for correct/incorrect answers
+
+Score tracking and performance evaluation
+
+Option to retry the quiz
+
+✅ Progress Tracking
+
+Visual progress bar that updates as you complete sections
+
+Status messages that change based on your progress
+
+Lesson completion tracking
+
+✅ User-Friendly Navigation
+
+Clear navigation between lesson sections
+
+Back to lessons and next lesson buttons
+
+Responsive design that works on all devices
+
+✅ Additional Features
+
+Dark/light mode toggle
+
+User profile display
+
+Professional styling with gradients and animations
+
+This lesson provides a complete, immersive learning experience for beginners starting with Masara Gondi greetings and basic phrases. The interface is intuitive and engaging, making language learning accessible and enjoyable.
+Add this page
+Features of the Family & Relationships Lesson
+✅ Comprehensive Family Vocabulary
+
+16 family terms covering immediate and extended family
+
+Authentic Masara Gondi script for each term
+
+Pronunciation guides and example sentences
+
+Audio playback simulation for pronunciation practice
+
+✅ Interactive Family Tree
+
+Visual representation of family relationships
+
+Shows connections between grandparents, parents, and children
+
+Helps understand family structure in Gondi culture
+
+✅ Engaging Matching Game
+
+Interactive game to match Gondi terms with English translations
+
+Visual feedback for correct and incorrect matches
+
+Encourages active recall and reinforcement
+
+✅ Comprehensive Quiz
+
+5 multiple-choice questions to test understanding
+
+Immediate feedback with visual indicators
+
+Score tracking and performance evaluation
+
+✅ Progress Tracking
+
+Visual progress bar that updates as you complete sections
+
+Status messages that change based on your progress
+
+Lesson completion tracking
+
+✅ User-Friendly Design
+
+Clean, focused lesson layout with family-themed colors
+
+Responsive design that works on all devices
+
+Dark/light mode toggle
+
+Clear navigation between sections
+
+This lesson provides a complete, immersive learning experience for family terms in Masara Gondi, with multiple interactive elements to reinforce learning and make the process engaging.
+
+add this page link
+Features of the Numbers & Counting Lesson
+✅ Comprehensive Number System
+
+Numbers 1-100 with authentic Masaram Gondi script
+
+Pronunciation guides for each number
+
+Visual counting aids with emoji representations
+
+Pattern recognition for numbers beyond 20
+
+✅ Interactive Counting Game
+
+Visual counting challenges with different objects
+
+Immediate feedback on counting accuracy
+
+Progressive difficulty with increasing numbers
+
+Score tracking and performance evaluation
+
+✅ Visual Learning Aids
+
+Number cards with digit, Gondi script, and pronunciation
+
+Visual patterns showing the relationship between numbers
+
+Table showing number patterns for larger numbers
+
+Emoji-based counting exercises
+
+✅ Comprehensive Quiz
+
+20 multiple-choice questions to test number recognition
+
+Immediate feedback with visual indicators
+
+Score tracking and performance evaluation
+
+✅ Progress Tracking
+
+Visual progress bar that updates as you complete sections
+
+Status messages that change based on your progress
+
+Lesson completion tracking
+
+✅ User-Friendly Design
+
+Clean, focused lesson layout with numbers-themed colors
+
+Responsive design that works on all devices
+
+Dark/light mode toggle
+
+Clear navigation between sections
+
+This lesson provides a complete, engaging learning experience for numbers and counting in Masara Gondi, with multiple interactive elements to reinforce learning and make the process enjoyable. The visual counting game and pattern recognition exercises help build a strong foundation for understanding the Gondi number system.
+
+Starting lesson: Food & Dining
+Gondi Gotul Guru - Lesson: Food & Dining
+I'll create an interactive lesson for learning food and dining vocabulary in Masara Gondi with engaging activities and visual aids
+add this page and link
+Features of the Food & Dining Lesson
+✅ Comprehensive Food Vocabulary
+
+50+ food terms organized into categories (grains, vegetables, fruits, dishes, drinks)
+
+Authentic Masaram Gondi script for each term
+
+Pronunciation guides and visual emoji representations
+
+Audio playback simulation for pronunciation practice
+
+✅ Interactive Dining Scenarios
+
+Realistic restaurant dialogue examples
+
+Useful phrases for ordering food and expressing preferences
+
+Cultural context for Gondi dining customs
+
+✅ Engaging Food Matching Game
+
+Interactive game to match Gondi food terms with English translations
+
+Visual feedback for correct and incorrect matches
+
+Encourages active recall and reinforcement
+
+✅ Restaurant Ordering Game
+
+Simulated restaurant experience where users build orders
+
+Practice using Gondi terms in context
+
+Visual order summary with pricing
+
+Cultural immersion through simulated dining experience
+
+✅ Comprehensive Quiz
+
+20 multiple-choice questions to test food vocabulary understanding
+
+Immediate feedback with visual indicators
+
+Score tracking and performance evaluation
+
+✅ Progress Tracking
+
+Visual progress bar that updates as you complete sections
+
+Status messages that change based on your progress
+
+Lesson completion tracking
+
+✅ User-Friendly Design
+
+Clean, focused lesson layout with food-themed colors
+
+Responsive design that works on all devices
+
+Dark/light mode toggle
+
+Clear navigation between sections
+
+This lesson provides a complete, immersive learning experience for food and dining vocabulary in Masara Gondi, with multiple interactive elements that make learning engaging and practical. The restaurant game especially helps users practice vocabulary in realistic contexts.
+
+Add this page and link
+Features of the Daily Activities Lesson
+✅ Comprehensive Daily Routine Vocabulary
+
+50+ activity terms organized by time of day (morning, daytime, evening)
+
+Authentic Masaram Gondi script for each activity
+
+Pronunciation guides and visual emoji representations
+
+Audio playback simulation for pronunciation practice
+
+✅ Interactive Daily Schedule
+
+Visual timeline showing a sample daily routine
+
+Contextual examples of how activities fit into a typical day
+
+Cultural insights into daily life in Gondi communities
+
+✅ Engaging Sequence Game
+
+Drag and drop interface to arrange daily activities in correct order
+
+Visual feedback for correct sequencing
+
+Practice understanding the logical flow of daily routines
+
+✅ Structured Learning Approach
+
+Activities grouped by time slots and categories
+
+Progressive learning from basic to more complex activities
+
+Real-world application of vocabulary
+
+✅ Comprehensive Quiz
+
+20 multiple-choice questions to test understanding
+
+Immediate feedback with visual indicators
+
+Score tracking and performance evaluation
+
+✅ Progress Tracking
+
+Visual progress bar that updates as you complete sections
+
+Status messages that change based on your progress
+
+Lesson completion tracking
+
+✅ User-Friendly Design
+
+Clean, focused lesson layout with activity-themed colors
+
+Responsive design that works on all devices
+
+Dark/light mode toggle
+
+Clear navigation between sections
+
+This lesson provides a complete, practical learning experience for daily activities vocabulary in Masara Gondi. The sequence game and daily schedule timeline help users understand not just individual words but how they fit together to describe complete daily routines, making the learning more meaningful and applicable to real-life situations.                                                                   Add this page and link                                                                                               G grammer Navbar tab Gondi grammer                                                                           यह रहा “Gondi Grammar Roadmap” का Short & Structured Prompt (दोनों भाषाओं में – English + Hindi) ताकि आप इसे वेबसाइट या किसी भी लर्निंग प्रोजेक्ट में उपयोग कर सकें 👇
+
+--- ## 🌿 **Gondi Grammar Roadmap (Short & Structured)**
+(English + Hindi)
+
+### **1. Foundation (आधार)**
+Learn pronunciation, listening, and basic vocabulary. (उच्चारण, सुनने की क्षमता और मूल शब्दावली सीखें।)
+Study main parts of speech — noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection. (शब्द भेदों का अध्ययन करें — संज्ञा, सर्वनाम, क्रिया, विशेषण, क्रियाविशेषण, संबंधबोधक, संयोजक, विस्मयादिबोधक।)
+Understand basic sentence pattern (Subject + Verb + Object). (वाक्य संरचना समझें — कर्ता + क्रिया + कर्म।)
+--- ### **2. Essential Grammar Rules (मूल व्याकरण नियम)**
+Practice simple, past, and future tenses. (वर्तमान, भूत और भविष्य काल का अभ्यास करें।)
+Use articles and determiners correctly. (A, An, The जैसे लेखों का सही उपयोग करें।)
+Avoid common grammar mistakes. (सामान्य व्याकरणीय गलतियों से बचें।)
+--- ### **3. Intermediate Grammar (मध्यम स्तर)**
+Build compound and complex sentences. (संयुक्त और मिश्रित वाक्य बनाना सीखें।)
+Learn perfect continuous tenses, modal verbs, conditionals, and reported speech. (परफेक्ट कंटीन्युअस काल, मॉडेल क्रियाएँ, शर्तीय वाक्य और कथन रूपांतरण सीखें।)
+Use punctuation properly. (विराम चिह्नों का सही प्रयोग करें।)
+--- ### **4. Advanced Grammar (उच्च स्तर)**
+Master passive voice and subjunctive mood. (कर्मवाच्य और काल्पनिक रूप में निपुण बनें।)
+Study advanced conditionals and discourse markers. (उन्नत शर्तीय वाक्य और संयोजक शब्द सीखें।)
+Focus on writing style and tone. (लेखन शैली और भाव पर ध्यान दें।)
+--- ### **5. Practice & Application (अभ्यास और उपयोग)**
+Do daily reading, writing, and speaking exercises. (प्रतिदिन पढ़ने, लिखने और बोलने का अभ्यास करें।)
+Get feedback from teachers or friends. (शिक्षकों या मित्रों से सुझाव लें।)
+Revise through quizzes and examples. (प्रश्नोत्तरी और उदाहरणों से पुनरावृत्ति करें।)
+--- ### **6. Tips for Success (सफलता के सुझाव)**
+Be consistent — practice daily. (नियमित रहें — प्रतिदिन अभ्यास करें।)
+Follow the 80/20 principle (focus on most used rules first). (80/20 नियम अपनाएँ — सबसे ज़्यादा उपयोगी नियमों से शुरुआत करें।)
+Apply grammar in real-life communication. (व्याकरण का उपयोग वास्तविक संवाद में करें।)
+---
+✅ Use:
+This roadmap can be used for English or Gondi Grammar websites, learning apps, or language training modules.
