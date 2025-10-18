@@ -23,9 +23,9 @@ export default function NavigationTabs() {
 
             return (
               <Link key={tab.id} href={tab.path}>
-                <a
+                <div
                   className={`
-                    flex items-center gap-2 px-4 py-3 border-b-2 transition-colors whitespace-nowrap
+                    flex items-center gap-2 px-4 py-3 border-b-2 transition-colors whitespace-nowrap cursor-pointer
                     hover-elevate active-elevate-2
                     ${
                       isActive
@@ -37,7 +37,7 @@ export default function NavigationTabs() {
                 >
                   <Icon className="h-5 w-5" />
                   <span className="hidden sm:inline font-medium">{tab.label}</span>
-                </a>
+                </div>
               </Link>
             );
           })}
